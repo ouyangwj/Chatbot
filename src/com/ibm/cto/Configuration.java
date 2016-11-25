@@ -21,19 +21,19 @@ public class Configuration {
 	/**
 	 * TODO: If you're testing this application locally, please get the credentials from Bluemix
 	 */
-	public String TEXT_TO_SPEECH_USERNAME = "";
-	public String TEXT_TO_SPEECH_PASSWORD = "";
+	public String TEXT_TO_SPEECH_USERNAME = "b54d0c49-51d5-43b3-a74b-7969fd9bdcd3";
+	public String TEXT_TO_SPEECH_PASSWORD = "SbsDezGBZ8rK";
 
-	public String SPEECH_TO_TEXT_USERNAME = "";
-	public String SPEECH_TO_TEXT_PASSWORD = "";
+	public String SPEECH_TO_TEXT_USERNAME = "151c2681-6a58-44b0-82c1-359feb72da25";
+	public String SPEECH_TO_TEXT_PASSWORD = "fBVx2h5IVRJo";
 
-	public String CONVERSATION_USERNAME = "";
-	public String CONVERSATION_PASSWORD = "";
+	public String CONVERSATION_USERNAME = "f8a318da-9853-4ae6-ac95-b863ce1e86bf";
+	public String CONVERSATION_PASSWORD = "sIc242hPTcDx";
 
 	/**
 	 * TODO: Get Workspace ID from IBM Watson Conversation: https://ibmwatsonconversation.com
 	 */
-	public String CONVERSATION_WORKSPACE_ID = "";
+	public String CONVERSATION_WORKSPACE_ID = "242765c9-e234-45b1-b4db-2c3a5e7b2956";
 
 	/**
 	 * TODO: After deploy your nodejs service for controlling robot car, fill in the host name here
